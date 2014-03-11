@@ -53,6 +53,10 @@ all other cases, consult the official Geany documentation.
 Known Bugs
 ----------
 
+Usage
+----------
+Open Geany: View->Editor->Color Schemes
+
 ## Backwards-compatiblity
 
 These color schemes are not compatible with older version of Geany, including
